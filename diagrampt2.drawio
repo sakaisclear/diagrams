@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T09:48:15.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="2O002sxZZN_RmYgTI41d" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T09:51:07.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="dpPjUgnXIY-m_TmqALls" version="17.1.5" type="github">
   <diagram id="nrOpPS_fD3lO-uywk_wv" name="Page-1">
     <mxGraphModel dx="726" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,14 +16,14 @@
         <mxCell id="u3gB8eXx4AxrdxUE1i_C-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="%name% Text" placeholders="1" name="Variable" id="u3gB8eXx4AxrdxUE1i_C-9">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="350" y="-920" width="80" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="input playername" placeholders="1" name="Variable" id="u3gB8eXx4AxrdxUE1i_C-11">
+        <UserObject label="input players" placeholders="1" name="Variable" id="u3gB8eXx4AxrdxUE1i_C-19">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
             <mxGeometry x="350" y="-1070" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="start" placeholders="1" name="Variable" id="u3gB8eXx4AxrdxUE1i_C-20">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="350" y="-920" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
